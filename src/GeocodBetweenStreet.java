@@ -8,16 +8,12 @@ public class GeocodBetweenStreet {
     private String p_calle;
     private String p_entre1;
     private String p_entre2;
-
-
-
     private String v_select;
     private String v_from;
     private String v_query;
     private String v_orderBy;
     private int v_orderBy_Count;
     private String v_accuracy;
-
 
 
     public GeocodBetweenStreet(String p_calle, String p_entre1, String p_entre2) {
